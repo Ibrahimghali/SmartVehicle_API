@@ -81,11 +81,6 @@ pip install -r requirements.txt
 - `GET /gas/`: View gas detection logs.
 - `POST /gas/`: Log gas detection data.
 
-## GitHub Repository
-
-You can find the repository on GitHub:
-
-[Smart Vehicle API GitHub](https://github.com/Ibrahimghali/SmartVehicle_API)
 
 ## License
 
